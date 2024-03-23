@@ -28,7 +28,7 @@ author:
   location         : "Paris, France"
   employer         : "Ecole Normale Supérieure, Paris"
   uri              : # URL
-  email            : "pascal(dot)mamassian(at)ens(dot)fr" 
+  email            : "pascal.mamassian@ens.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "@mamassian.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "mamassian.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
