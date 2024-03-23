@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Confidence Forced-Choice"
+excerpt: "Matlab code to analyse confidence forced-choice data<br/><img src='/images/mamassian_2022_fig07.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Matlab code to analyse confidence forced-choice data is available here: [CFC](https://github.com/mamassian/cfc).
+
+This code implements the model described in: \
+Mamassian, P., & de Gardelle, V. (2022). Modeling perceptual confidence and the confidence forced-choice paradigm. _Psychological Review_, _129_(5), 976–998. [DOI](https://doi.org/10.1037/rev0000312)
+ 
