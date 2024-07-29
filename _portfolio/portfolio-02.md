@@ -4,7 +4,5 @@ excerpt: "Matlab code to analyse confidence ratings data with the Confidence Noi
 collection: portfolio
 ---
 
-Matlab code to analyse confidence ratings data with the Confidence Noise Confidence Boost (CNCB) model is available here: [CFC](https://github.com/mamassian/cncb).
+Matlab code to analyse confidence ratings data with the Confidence Noise Confidence Boost (CNCB) model is available here: [CNCB](https://github.com/mamassian/cncb).
 
-
- 
